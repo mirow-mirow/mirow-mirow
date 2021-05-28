@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mirow-mirow
-- 👀 I’m interested in Coding, Developer of Rolelife
-- 🌱 I’m currently learning Java (Spigot & Forge API)
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me mirow#0001 on Discord.
 
 <!---
