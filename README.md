@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirow-mirow
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently developing with Java, HTML, CSS and Learning JavaScript
 - 📫 How to reach me mirow#0001 on Discord.
 
 <!---
